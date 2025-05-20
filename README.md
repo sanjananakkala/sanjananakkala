@@ -9,7 +9,7 @@
 ### 🩺 Saanjh Sahayak  
 AI-powered clinical decision support system using **GEMMA-2 (LLM)** for elderly care homes  
 **Tech:** Flask, React.js, MongoDB, Tailwind CSS, GEMMA-2 via Ollama  
-🔗 *Repo is private*
+🔗 [View Project](https://github.com/sanjananakkala/Swasthya-app)
 
 ---
 
